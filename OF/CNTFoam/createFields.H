@@ -118,6 +118,19 @@ volScalarField supersat
     mesh,
     dimensionedScalar("supersat",dimensionSet(0,0,0,0,0,0,0),0)
 );
+volScalarField Kn
+(
+    IOobject
+    (
+        "Kn",
+        runTime.timeName(),
+        mesh,
+        IOobject::NO_READ,
+        IOobject::AUTO_WRITE
+    ),
+    mesh,
+    dimensionedScalar("Kn",dimensionSet(0,0,0,0,0,0,0),0)
+);
 volScalarField crit_mass
 (
     IOobject
@@ -179,6 +192,12 @@ dimensionedScalar R
         "rhol_kg",
         dimensionSet(1, -3, 0, 0, 0, 0, 0),
         scalar(958.77)
+    );
+        dimensionedScalar visc
+    (
+        "visc",
+        dimensionSet(1, -1, -1, 0, 0, 0, 0),
+        scalar(0.0002816)
     );
     dimensionedScalar k_copp
     (

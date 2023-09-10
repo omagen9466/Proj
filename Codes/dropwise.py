@@ -1,5 +1,5 @@
 
-def Condense(T_inf= 373,T_wall=363,total_pressure=101325,delta_t=10**(-1),theta=86,endtime=1,step=1e-6,accom=0.04,lat_heat=2429.8*1e3):
+def Condense(T_inf= 350,T_wall=340,total_pressure=101325,delta_t=10**(-1),theta=86,endtime=1,step=1e-6,accom=0.04,lat_heat=2429.8*1e3):
     import functions as func
     import numpy as np
     import matplotlib.pyplot as plt

@@ -1,0 +1,221 @@
+\begin{thebibliography}{10}
+
+\bibitem{doi:10.1021/ie4033999}
+I.~H. Bell, J.~Wronski, S.~Quoilin, and V.~Lemort, ``Pure and pseudo-pure fluid
+  thermophysical property evaluation and the open-source thermophysical
+  property library coolprop,'' {\em Industrial \& Engineering Chemistry
+  Research}, vol.~53, no.~6, pp.~2498--2508, 2014.
+
+\bibitem{traupel1977thermal}
+W.~Traupel, ``Thermal turbo-engines. vol. i. thermodynamic-fluidic
+  calculation.[book in german]. thermische turbomaschinen. bd. 1.
+  thermodynamisch-stroemungstechnische berechnung,'' 1977.
+
+\bibitem{massoud2005engineering}
+M.~Massoud, {\em Engineering thermofluids}, vol.~2005.
+\newblock Springer, 2005.
+
+\bibitem{khandekar2020drop}
+S.~Khandekar and K.~Muralidhar, {\em Drop Dynamics and Dropwise Condensation on
+  Textured Surfaces}.
+\newblock Springer, 2020.
+
+\bibitem{liu2015dropwise2}
+X.~Liu and P.~Cheng, ``Dropwise condensation theory revisited part ii. droplet
+  nucleation density and condensation heat flux,'' {\em International Journal
+  of Heat and Mass Transfer}, vol.~83, pp.~842--849, 2015.
+
+\bibitem{marengo2022surface}
+M.~Marengo and J.~De~Coninck, {\em The surface wettability effect on phase
+  change}.
+\newblock Springer, 2022.
+
+\bibitem{PARIN2020115718}
+R.~Parin, M.~Tancon, M.~Mirafiori, S.~Bortolin, L.~Moro, L.~Zago, F.~Carraro,
+  A.~Martucci, and D.~{Del Col}, ``Heat transfer and droplet population during
+  dropwise condensation on durable coatings,'' {\em Applied Thermal
+  Engineering}, vol.~179, p.~115718, 2020.
+
+\bibitem{lit_review}
+O.~Magen, ``Literature review,'' January 2023.
+
+\bibitem{gibbs1957method}
+J.~W. Gibbs, ``A method of geometrical representation of the thermodynamic
+  properties by means of surfaces,'' {\em The Collected Works of J. Willard
+  Gibbs, Ph. D., LL. D}, pp.~33--54, 1957.
+
+\bibitem{becker1935kinetische}
+R.~Becker and W.~D{\"o}ring, ``Kinetische behandlung der keimbildung in
+  {\"u}bers{\"a}ttigten d{\"a}mpfen,'' {\em Annalen der physik}, vol.~416,
+  no.~8, pp.~719--752, 1935.
+
+\bibitem{mcdonald1962homogeneous}
+J.~E. McDonald, ``Homogeneous nucleation of vapor condensation. i.
+  thermodynamic aspects,'' {\em American Journal of Physics}, vol.~30, no.~12,
+  pp.~870--877, 1962.
+
+\bibitem{liu2015dropwise}
+X.~Liu and P.~Cheng, ``Dropwise condensation theory revisited: Part i. droplet
+  nucleation radius,'' {\em International Journal of Heat and Mass Transfer},
+  vol.~83, pp.~833--841, 2015.
+
+\bibitem{kalikmanov2013computer}
+V.~Kalikmanov and V.~Kalikmanov, ``Computer simulation of nucleation,'' {\em
+  Nucleation Theory}, pp.~113--144, 2013.
+
+\bibitem{starzmann2010non}
+J.~r. Starzmann, M.~Casey, and F.~Sieverding, ``Non-equilibrium condensation
+  effects on the flow field and the performance of a low pressure steam
+  turbine,'' in {\em Turbo Expo: Power for Land, Sea, and Air}, vol.~44021,
+  pp.~2199--2208, 2010.
+
+\bibitem{yang2017cfd}
+Y.~Yang, J.~H. Walther, Y.~Yan, and C.~Wen, ``Cfd modeling of condensation
+  process of water vapor in supersonic flows,'' {\em Applied Thermal
+  Engineering}, vol.~115, pp.~1357--1362, 2017.
+
+\bibitem{zheng2018modeling}
+S.~Zheng, F.~Eimann, C.~Philipp, T.~Fieback, and U.~Gross, ``Modeling of heat
+  and mass transfer for dropwise condensation of moist air and the experimental
+  validation,'' {\em International Journal of Heat and Mass Transfer},
+  vol.~120, pp.~879--894, 2018.
+
+\bibitem{liu2020condensation}
+Y.~Liu, X.~Du, X.~Shi, and D.~Huang, ``Condensation flow at the wet steam
+  centrifugal turbine stage,'' {\em Proceedings of the Institution of
+  Mechanical Engineers, Part A: Journal of Power and Energy}, vol.~234, no.~8,
+  pp.~1108--1121, 2020.
+
+\bibitem{patel2016influence}
+Y.~Patel, G.~Patel, and T.~Turunen-Saaresti, ``Influence of turbulence
+  modelling to condensing steam flow in the 3d low-pressure steam turbine
+  stage,'' in {\em Turbo Expo: Power for Land, Sea, and Air}, vol.~49866,
+  p.~V008T26A036, American Society of Mechanical Engineers, 2016.
+
+\bibitem{gerber2004pressure}
+A.~Gerber and M.~Kermani, ``A pressure based eulerian--eulerian multi-phase
+  model for non-equilibrium condensation in transonic steam flow,'' {\em
+  International Journal of Heat and Mass Transfer}, vol.~47, no.~10-11,
+  pp.~2217--2231, 2004.
+
+\bibitem{gyarmathy1962grundlagen}
+G.~Gyarmathy, {\em Grundlagen einer theorie der nassdampfturbine}.
+\newblock PhD thesis, ETH Zurich, 1962.
+
+\bibitem{wroblewski2009numerical}
+W.~Wr{\'o}blewski, S.~Dykas, A.~Gardzilewicz, and M.~Kolovratnik, ``Numerical
+  and experimental investigations of steam condensation in lp part of a large
+  power turbine,'' 2009.
+
+\bibitem{moore1976two}
+M.~J. Moore and C.~Sieverding, ``Two-phase steam flow in turbines and
+  separators: theory, instrumentation, engineering,'' 1976.
+
+\bibitem{turns2011introduction}
+S.~Turns, ``An introduction to combustion third edition,'' 2011.
+
+\bibitem{pathak2018steady}
+A.~Pathak and M.~Raessi, ``Steady-state and transient solutions to drop
+  evaporation in a finite domain: Alternative benchmarks to the d2 law,'' {\em
+  International Journal of Heat and Mass Transfer}, vol.~127, pp.~1147--1158,
+  2018.
+
+\bibitem{francesco2017cfd}
+G.~Francesco, M.~Federico, and M.~Adriano, ``Cfd modelling of the condensation
+  inside a cascade of steam turbine blades: comparison with an experimental
+  test case,'' {\em Energy Procedia}, vol.~126, pp.~730--737, 2017.
+
+\bibitem{kantrowitz1951nucleation}
+A.~Kantrowitz, ``Nucleation in very rapid vapor expansions,'' {\em The Journal
+  of chemical physics}, vol.~19, no.~9, pp.~1097--1100, 1951.
+
+\bibitem{bagheri2017effects}
+H.~Bagheri~Esfe, M.~J. Kermani, and M.~Saffar~Avval, ``Effects of
+  non-equilibrium condensation on aerodynamics of the flow field in a steam
+  turbine cascade,'' {\em Scientia Iranica}, vol.~24, no.~2, pp.~624--634,
+  2017.
+
+\bibitem{brinckman2019numerical}
+K.~W. Brinckman, A.~Hosangadi, Z.~Liu, and T.~Weathers, ``Numerical simulation
+  of non-equilibrium condensation in supercritical co2 compressors,'' in {\em
+  Turbo Expo: Power for Land, Sea, and Air}, vol.~58721, p.~V009T38A010,
+  American Society of Mechanical Engineers, 2019.
+
+\bibitem{tabata2022experimental}
+S.~Tabata, K.~Segawa, T.~Takahashi, and J.~Aoyagi, ``Experimental and numerical
+  investigations of the non-equilibrium condensation on the performance and the
+  flow pattern in steam turbine,'' in {\em Turbo Expo: Power for Land, Sea, and
+  Air}, vol.~85987, p.~V002T20A004, American Society of Mechanical Engineers,
+  2022.
+
+\bibitem{young1982spontaneous}
+J.~Young, ``The spontaneous condensation of steam in supersonic nozzle,'' {\em
+  Physico Chemical Hydrodynamics}, vol.~3, no.~1, pp.~57--82, 1982.
+
+\bibitem{schmidt1930versuche}
+E.~Schmidt, W.~Schurig, and W.~Sellschopp, ``Versuche {\"u}ber die kondensation
+  von wasserdampf in film-und tropfenform,'' {\em Technische Mechanik und
+  Thermodynamik}, vol.~1, pp.~53--63, 1930.
+
+\bibitem{rose1976further}
+J.~Rose, ``Further aspects of dropwise condensation theory,'' {\em
+  International Journal of Heat and Mass Transfer}, vol.~19, no.~12,
+  pp.~1363--1370, 1976.
+
+\bibitem{zhao1995droplet}
+H.~Zhao and D.~Beysens, ``From droplet growth to film growth on a heterogeneous
+  surface: condensation associated with a wettability gradient,'' {\em
+  Langmuir}, vol.~11, no.~2, pp.~627--634, 1995.
+
+\bibitem{doble2007perry}
+M.~Doble, ``Perry’s chemical engineers’ handbook,'' {\em McGraw-Hil, New
+  York, US}, 2007.
+
+\bibitem{le1966theory}
+E.~Le~Fevre and J.~W. Rose, ``A theory of heat transfer by dropwise
+  condensation,'' in {\em International Heat Transfer Conference Digital
+  Library}, Begel House Inc., 1966.
+
+\bibitem{janet2015heterogeneous}
+J.~P. Janet, Y.~Liao, and D.~Lucas, ``Heterogeneous nucleation in cfd
+  simulation of flashing flows in converging--diverging nozzles,'' {\em
+  International Journal of Multiphase Flow}, vol.~74, pp.~106--117, 2015.
+
+\bibitem{GALVIN20054659}
+K.~Galvin, ``A conceptually simple derivation of the kelvin equation,'' {\em
+  Chemical Engineering Science}, vol.~60, no.~16, pp.~4659--4660, 2005.
+
+\bibitem{abramzon1989droplet}
+B.~Abramzon and W.~A. Sirignano, ``Droplet vaporization model for spray
+  combustion calculations,'' {\em International journal of heat and mass
+  transfer}, vol.~32, no.~9, pp.~1605--1618, 1989.
+
+\bibitem{tanasawa1991advances}
+I.~Tanasawa, ``Advances in condensation heat transfer,'' in {\em Advances in
+  heat transfer}, vol.~21, pp.~55--139, Elsevier, 1991.
+
+\bibitem{greenshields2022}
+C.~Greenshields, {\em OpenFOAM v10 User Guide}.
+\newblock London, UK: The OpenFOAM Foundation, 2022.
+
+\bibitem{pengrobinson}
+D.-Y. Peng and D.~B. Robinson, ``A new two-constant equation of state,'' {\em
+  Industrial \& Engineering Chemistry Fundamentals}, vol.~15, no.~1,
+  pp.~59--64, 1976.
+
+\bibitem{WEN1976225}
+H.~W. Wen and R.~M. Jer, ``On the heat transfer in dropwise condensation,''
+  {\em The Chemical Engineering Journal}, vol.~12, no.~3, pp.~225--231, 1976.
+
+\bibitem{Sutherlands_law}
+``{Sutherland's law Comsol Documentation}.''
+  \url{https://doc.comsol.com/5.5/doc/com.comsol.help.cfd/cfd_ug_fluidflow_high_mach.08.27.html#:~:text=Sutherland%E2%80%99s%20law%2C%20or%20Sutherland%E2%80%99s%20formula%2C%20is%20an%20approximation,constant.%20Each%20gas%20has%20its%20own%20Sutherland%20constant},
+  2005.
+\newblock Accessed: 01-10-2022.
+
+\bibitem{vCalc_2022}
+``{Mass Diffusivity (gas) vCalc}.''
+  \url{https://www.vcalc.com/wiki/vCalc/Mass%20Diffusivity%20(gas)}, 2022.
+\newblock Accessed: 01-10-2022.
+
+\end{thebibliography}

@@ -1,0 +1,20 @@
+#INTERACTIVE JOBS
+qsub -I -l select=1:ncpus=2:mpiprocs=2:mem=16gb -l walltime=02:00:00
+qsub -I -l select=1:ncpus=1:mpiprocs=1:mem=16gb -l walltime=02:00:00
+ssh om22@login.hpc.imperial.ac.uk
+
+
+RUNIT SCRIPT:
+
+#!/bin/bash
+#PBS -l walltime=05:00:00,select=1:ncpus=2:mpiprocs=2:mem=16gb
+
+module load openfoam/8.0
+module load mpi
+cp -r $HOME/Proj/OF/rhoPimpleCondensationFoam $TMPDIR
+cp -r $HOME/cylinder_v2 $TMPDIR
+wmake $TMPDIR/rhoPimpleCondensationFoam
+cd $TMPDIR/cylinder_v2
+mpirun $FOAM_USER_APPBIN/rhoPimpleCondensationFoam -parallel -case
+
+cp -r $TMPDIR/cylinder_v2 $WORK/results

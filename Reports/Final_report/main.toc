@@ -1,0 +1,49 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{Abstract}{II}{Doc-Start}%
+\contentsline {section}{Acknowledgements}{III}{section*.1}%
+\contentsline {section}{\nonumberline Nomenclature}{VII}{section*.3}%
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Motivation}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Objectives}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Literature Review }{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Homogeneous Condensation}{3}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Classical Nucleation Theory}{3}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Droplet Growth in Pure Vapor}{6}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}Droplet Evaporation in Mixed Species Domains}{8}{subsubsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.4}CFD Models}{10}{subsubsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.2}Heterogeneous Condensation}{14}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Surface Nucleation}{16}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Droplet Growth}{17}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Droplet Population Density and Wall Heat Flux}{20}{subsubsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.4}CFD Models}{21}{subsubsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.3}Discussion}{22}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Methodology}{24}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Droplet Growth}{24}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Homogeneous Condensation in Pure Vapor}{24}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Homogeneous Condensation in Gas Mixtures}{25}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Heterogeneous Condensation in Pure Vapor}{31}{subsubsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.2}Homogeneous Condensation: Numerical Method}{32}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Computational Domain}{32}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Transport Equations and Condensation Models}{33}{subsubsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.3}Heterogeneous Condensation: Numerical Method}{34}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Computational Domain}{34}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Transport Equations and Condensation Models}{35}{subsubsection.3.3.2}%
+\contentsline {section}{\numberline {4}Results}{38}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Droplet Growth: Parametric Analysis and Comparison}{38}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Homogeneous Droplets}{38}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Heterogeneous Droplets}{42}{subsubsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.2}Cylinder Case}{46}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Flat Plate Case}{51}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Discussion and Future Work}{55}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Droplet Growth}{55}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Homogeneous Condensation}{56}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Heterogeneous Condensation}{57}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Conclusions}{61}{section.6}%
+\contentsline {section}{References}{63}{section*.36}%
+\contentsline {section}{Appendix \numberline {A}Derivations and Results}{i}{appendix.1.A}%
+\contentsline {subsection}{\numberline {A.1}Heterogeneous Droplet Growth}{i}{subsection.1.A.1}%
+\contentsline {subsection}{\numberline {A.2}Nusselt Correction}{i}{subsection.1.A.2}%
+\contentsline {subsection}{\numberline {A.3}Wall Heat Flux Analytical Integration}{ii}{subsection.1.A.3}%
+\contentsline {subsection}{\numberline {A.4}Droplet Growth Rate Cylinder Case}{iii}{subsection.1.A.4}%
+\contentsline {subsection}{\numberline {A.5}Mass Fraction Progression for Flat Plate Case}{iv}{subsection.1.A.5}%
+\contentsline {section}{Appendix \numberline {B}Thermophysical Properties}{iv}{appendix.1.B}%

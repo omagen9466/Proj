@@ -1,0 +1,32 @@
+\begin{thebibliography}{1}
+
+\bibitem{granasy1993diffuse}
+L.~Gr{\'a}n{\'a}sy, ``Diffuse interface theory of nucleation,'' {\em Journal of
+  non-crystalline solids}, vol.~162, no.~3, pp.~301--303, 1993.
+
+\bibitem{francesco2017cfd}
+G.~Francesco, M.~Federico, and M.~Adriano, ``Cfd modelling of the condensation
+  inside a cascade of steam turbine blades: comparison with an experimental
+  test case,'' {\em Energy Procedia}, vol.~126, pp.~730--737, 2017.
+
+\bibitem{patel2016influence}
+Y.~Patel, G.~Patel, and T.~Turunen-Saaresti, ``Influence of turbulence
+  modelling to condensing steam flow in the 3d low-pressure steam turbine
+  stage,'' in {\em Turbo Expo: Power for Land, Sea, and Air}, vol.~49866,
+  p.~V008T26A036, American Society of Mechanical Engineers, 2016.
+
+\bibitem{gerber2004pressure}
+A.~Gerber and M.~Kermani, ``A pressure based eulerian--eulerian multi-phase
+  model for non-equilibrium condensation in transonic steam flow,'' {\em
+  International Journal of Heat and Mass Transfer}, vol.~47, no.~10-11,
+  pp.~2217--2231, 2004.
+
+\bibitem{turns2011introduction}
+S.~Turns, ``An introduction to combustion third edition,'' 2011.
+
+\bibitem{abramzon1989droplet}
+B.~Abramzon and W.~A. Sirignano, ``Droplet vaporization model for spray
+  combustion calculations,'' {\em International journal of heat and mass
+  transfer}, vol.~32, no.~9, pp.~1605--1618, 1989.
+
+\end{thebibliography}

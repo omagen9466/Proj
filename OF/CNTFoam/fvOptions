@@ -1,0 +1,65 @@
+/*--------------------------------*- C++ -*----------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Website:  https://openfoam.org
+    \\  /    A nd           | Version:  8
+     \\/     M anipulation  |
+\*---------------------------------------------------------------------------*/
+FoamFile
+{
+    version     2.0;
+    format      ascii;
+    class       dictionary;
+    location    "constant";
+    object      fvOptions;
+}
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+
+codedSource
+{
+    type            coded;
+    selectionMode   all;
+
+    fields          (M N);
+    name            nucleationRate;
+
+  codeAddSup
+#{
+    const Time& time = mesh().time();
+    const scalarField& V = mesh_.V();
+    scalarField& MSource = M();
+    scalarField& NSource = N();
+
+    // Start time
+    const scalar startTime = 2.0;
+
+    // Retrieve the x component of the cell centres
+    const scalarField& cellx = mesh_.C().component(0);
+
+    // Read temperature, pressure, and entropy fields
+    const scalarField& T = thermo.T();
+    const scalarField& p = thermo.p();
+    const scalarField& s = thermo.s();
+    const scalarField& h = thermo.h();
+
+    // Only apply when we have reached the start time
+    if (time.value() > startTime)
+    {
+        // Apply the source
+        forAll(cellx, i)
+        {
+            // Check the condition for applying the source term
+            if (p[i] > 1000 && T[i] < 300 && h[i] > 500 && s[i] > 0.1)
+            {
+                // Compute your custom source terms based on temperature, pressure, entropy, and cell position
+                scalar MCustomSource = 1e5 * sin(200 * cellx[i]) * V[i] * (T[i] + p[i] + s[i]);
+                scalar NCustomSource = 2e5 * cos(200 * cellx[i]) * V[i] * (T[i] - p[i] + s[i]);
+
+                // Add the custom source terms to M and N
+                MSource[i] += MCustomSource;
+                NSource[i] += NCustomSource;
+            }
+        }
+    }
+#};
+}

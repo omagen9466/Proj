@@ -1,0 +1,84 @@
+
+\begin{thenomenclature} 
+\nomgroup{L}
+  \item [{\(\dot{m}''\)}]\begingroup Mass Flux, $\mathrm{kg/m^{2}s}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(\dot{m}\)}]\begingroup Mass Flow Rate, $\mathrm{kg/s}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(\mathcal{D}\)}]\begingroup Diffusion Coefficient, $\mathrm{m^{2}/s}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(A\)}]\begingroup Surface Area, $\mathrm{m^{2}}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(B_{M}\)}]\begingroup Mass Transfer Number\nomeqref {0.0}\nompageref{VI}
+  \item [{\(B_{T}\)}]\begingroup Thermal Transfer Number\nomeqref {0.0}\nompageref{VI}
+  \item [{\(c_{p}\)}]\begingroup Isobaric Specific Heat Capacity, $\mathrm{J/kgK}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(d\)}]\begingroup Diameter, $\mathrm{m}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(F\)}]\begingroup Gibbs Free Energy, $\mathrm{J}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(f\)}]\begingroup Nucleation Frequency, $\mathrm{1/s}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(g\)}]\begingroup Gravitational Acceleration, $\mathrm{m/s^{2}}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(H\)}]\begingroup Enthalpy, $\mathrm{J}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(h\)}]\begingroup Heat Transfer Coefficient, $\mathrm{W/m^{2}K}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(h\)}]\begingroup Specific Enthalpy, $\mathrm{J/kg}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(h_{vl}\)}]\begingroup Latent Heat, $\mathrm{J/kg}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(J\)}]\begingroup Nucleation Rate, $\mathrm{1/m^{3}s}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(K\)}]\begingroup Squared Droplet Growth Rate, $\mathrm{m^{2}/s}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(k_{B}\)}]\begingroup Boltzmann Constant, $\mathrm{J/K}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(m\)}]\begingroup Mass, $\mathrm{kg}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(N(r)\)}]\begingroup Droplet Size Distribution, $\mathrm{1/m^{3}}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(N_{A}\)}]\begingroup Avogadro Constant, $\mathrm{1/mol}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(N_{s}\)}]\begingroup Nucleation Site Density, $\mathrm{1/m^{2}}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(p\)}]\begingroup Pressure, $\mathrm{Pa}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(q\)}]\begingroup Wall Heat Flux, $\mathrm{W/m^{2}}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(q_{c}\)}]\begingroup Non-Isothermal Correction Factor\nomeqref {0.0}\nompageref{VI}
+  \item [{\(Q_{d}\)}]\begingroup Droplet Heat Transfer, $\mathrm{W}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(R\)}]\begingroup Gas Constant, $\mathrm{J/kgK}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(r\)}]\begingroup Radius, $\mathrm{m}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(S\)}]\begingroup Supersaturation\nomeqref {0.0}\nompageref{VI}
+  \item [{\(S_{d}\)}]\begingroup Droplet Growth Source Term, $\mathrm{kg/m^{3}s}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(T\)}]\begingroup Temperature, $\mathrm{K}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(t\)}]\begingroup Time, $\mathrm{s}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(U\)}]\begingroup Velocity, $\mathrm{m/s}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(V\)}]\begingroup Volume, $\mathrm{m^{3}}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(v\)}]\begingroup Velocity due to Diffusion,  $\mathrm{m/s}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(W\)}]\begingroup Molecular Weight, $\mathrm{kg/mol}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(Y\)}]\begingroup Concentration\nomeqref {0.0}\nompageref{VI}
+\nomgroup{N}
+  \item [{\('\)}]\begingroup Saturation Conditions\nomeqref {0.0}\nompageref{VI}
+  \item [{\(*\)}]\begingroup Critical\nomeqref {0.0}\nompageref{VI}
+  \item [{\(0\)}]\begingroup Initial\nomeqref {0.0}\nompageref{VI}
+  \item [{\(\infty\)}]\begingroup Free Stream Conditions\nomeqref {0.0}\nompageref{VI}
+  \item [{\(cap\)}]\begingroup Capillarity\nomeqref {0.0}\nompageref{VI}
+  \item [{\(cond\)}]\begingroup Conduction\nomeqref {0.0}\nompageref{VI}
+  \item [{\(const\)}]\begingroup Constriction\nomeqref {0.0}\nompageref{VI}
+  \item [{\(conv\)}]\begingroup Convection\nomeqref {0.0}\nompageref{VI}
+  \item [{\(d\)}]\begingroup Droplet\nomeqref {0.0}\nompageref{VI}
+  \item [{\(g\)}]\begingroup Gas Phase\nomeqref {0.0}\nompageref{VI}
+  \item [{\(het\)}]\begingroup Heterogeneous\nomeqref {0.0}\nompageref{VI}
+  \item [{\(ij\)}]\begingroup Tensor Notation\nomeqref {0.0}\nompageref{VI}
+  \item [{\(int\)}]\begingroup Interface\nomeqref {0.0}\nompageref{VI}
+  \item [{\(l\)}]\begingroup Liquid Phase\nomeqref {0.0}\nompageref{VI}
+  \item [{\(s\)}]\begingroup Surface\nomeqref {0.0}\nompageref{VI}
+  \item [{\(v\)}]\begingroup Vapor\nomeqref {0.0}\nompageref{VI}
+  \item [{\(w\)}]\begingroup Water\nomeqref {0.0}\nompageref{VI}
+\nomgroup{O}
+  \item [{\(\mathrm{Kn}\)}]\begingroup Knudsen Number\nomeqref {0.0}\nompageref{VI}
+  \item [{\(\mathrm{Nu}\)}]\begingroup Nusselt Number\nomeqref {0.0}\nompageref{VI}
+  \item [{\(\mathrm{Pr}\)}]\begingroup Prandtl Number\nomeqref {0.0}\nompageref{VI}
+  \item [{\(\mathrm{Re}\)}]\begingroup Reynolds Number\nomeqref {0.0}\nompageref{VI}
+  \item [{\(\mathrm{Sc}\)}]\begingroup Schmidt Number\nomeqref {0.0}\nompageref{VI}
+  \item [{\(\mathrm{Sh}\)}]\begingroup Sherwood Number\nomeqref {0.0}\nompageref{VI}
+\nomgroup{P}
+  \item [{\(\alpha\)}]\begingroup Volumetric Phase Fraction\nomeqref {0.0}\nompageref{VI}
+  \item [{\(\epsilon\)}]\begingroup Turbulent Kinetik Energy Dissipation, $\mathrm{m^{2}/s}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(\eta\)}]\begingroup Droplet Number, $\mathrm{1/m^3}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(\Gamma\)}]\begingroup Thermal Diffusion Coefficient, $\mathrm{m^{2}/s}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(\gamma\)}]\begingroup Specific Heat Ratio\nomeqref {0.0}\nompageref{VI}
+  \item [{\(\hat{\alpha}\)}]\begingroup Thermal Diffusivity, $\mathrm{m^{2}/s}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(\hat{\sigma}\)}]\begingroup Accommodation Coefficient\nomeqref {0.0}\nompageref{VI}
+  \item [{\(\kappa\)}]\begingroup Turbulent Kinetik Energy, $\mathrm{J/kg}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(\lambda\)}]\begingroup Thermal Conductivity, $\mathrm{W/mK}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(\mu\)}]\begingroup Dynamic Viscosity, $\mathrm{Pa\cdot s}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(\Omega\)}]\begingroup Boundary Patch\nomeqref {0.0}\nompageref{VI}
+  \item [{\(\rho\)}]\begingroup Density, $\mathrm{kg/m^3}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(\sigma\)}]\begingroup Surface Tension, $\mathrm{N/m}$\nomeqref {0.0}\nompageref{VI}
+  \item [{\(\tau\)}]\begingroup Viscous Stress Tensor\nomeqref {0.0}\nompageref{VI}
+  \item [{\(\theta\)}]\begingroup Contact Angle\nomeqref {0.0}\nompageref{VI}
+  \item [{\(\vartheta\)}]\begingroup Cylinder Angular Coordinates, $\mathrm{deg}$\nomeqref {0.0}\nompageref{VI}
+
+\end{thenomenclature}

@@ -1,0 +1,77 @@
+\nomenclatureentry{P\(\rho\)@[{\(\rho\)}]\begingroup Density, $\mathrm{kg/m^3}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{P\(\vartheta\)@[{\(\vartheta\)}]\begingroup Cylinder Angular Coordinates, $\mathrm{deg}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{P\(\alpha\)@[{\(\alpha\)}]\begingroup Volumetric Phase Fraction\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{P\(\hat{\alpha}\)@[{\(\hat{\alpha}\)}]\begingroup Thermal Diffusivity, $\mathrm{m^{2}/s}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{P\(\sigma\)@[{\(\sigma\)}]\begingroup Surface Tension, $\mathrm{N/m}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{P\(\lambda\)@[{\(\lambda\)}]\begingroup Thermal Conductivity, $\mathrm{W/mK}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{P\(\Gamma\)@[{\(\Gamma\)}]\begingroup Thermal Diffusion Coefficient, $\mathrm{m^{2}/s}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{P\(\eta\)@[{\(\eta\)}]\begingroup Droplet Number, $\mathrm{1/m^3}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{P\(\theta\)@[{\(\theta\)}]\begingroup Contact Angle\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{P\(\mu\)@[{\(\mu\)}]\begingroup Dynamic Viscosity, $\mathrm{Pa\cdot s}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{P\(\hat{\sigma}\)@[{\(\hat{\sigma}\)}]\begingroup Accommodation Coefficient\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{P\(\gamma\)@[{\(\gamma\)}]\begingroup Specific Heat Ratio\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{P\(\kappa\)@[{\(\kappa\)}]\begingroup Turbulent Kinetik Energy, $\mathrm{J/kg}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{P\(\epsilon\)@[{\(\epsilon\)}]\begingroup Turbulent Kinetik Energy Dissipation, $\mathrm{m^{2}/s}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{P\(\Omega\)@[{\(\Omega\)}]\begingroup Boundary Patch\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{P\(\tau\)@[{\(\tau\)}]\begingroup Viscous Stress Tensor\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(h\)@[{\(h\)}]\begingroup Heat Transfer Coefficient, $\mathrm{W/m^{2}K}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(r\)@[{\(r\)}]\begingroup Radius, $\mathrm{m}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(T\)@[{\(T\)}]\begingroup Temperature, $\mathrm{K}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(g\)@[{\(g\)}]\begingroup Gravitational Acceleration, $\mathrm{m/s^{2}}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(p\)@[{\(p\)}]\begingroup Pressure, $\mathrm{Pa}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(R\)@[{\(R\)}]\begingroup Gas Constant, $\mathrm{J/kgK}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(J\)@[{\(J\)}]\begingroup Nucleation Rate, $\mathrm{1/m^{3}s}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(F\)@[{\(F\)}]\begingroup Gibbs Free Energy, $\mathrm{J}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(k_{B}\)@[{\(k_{B}\)}]\begingroup Boltzmann Constant, $\mathrm{J/K}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(h_{vl}\)@[{\(h_{vl}\)}]\begingroup Latent Heat, $\mathrm{J/kg}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(m\)@[{\(m\)}]\begingroup Mass, $\mathrm{kg}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(t\)@[{\(t\)}]\begingroup Time, $\mathrm{s}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(c_{p}\)@[{\(c_{p}\)}]\begingroup Isobaric Specific Heat Capacity, $\mathrm{J/kgK}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(Y\)@[{\(Y\)}]\begingroup Concentration\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(\dot{m}\)@[{\(\dot{m}\)}]\begingroup Mass Flow Rate, $\mathrm{kg/s}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(\dot{m}''\)@[{\(\dot{m}''\)}]\begingroup Mass Flux, $\mathrm{kg/m^{2}s}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(v\)@[{\(v\)}]\begingroup Velocity due to Diffusion,  $\mathrm{m/s}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(U\)@[{\(U\)}]\begingroup Velocity, $\mathrm{m/s}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(H\)@[{\(H\)}]\begingroup Enthalpy, $\mathrm{J}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(h\)@[{\(h\)}]\begingroup Specific Enthalpy, $\mathrm{J/kg}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(\mathcal{D}\)@[{\(\mathcal{D}\)}]\begingroup Diffusion Coefficient, $\mathrm{m^{2}/s}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(B_{M}\)@[{\(B_{M}\)}]\begingroup Mass Transfer Number\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(B_{T}\)@[{\(B_{T}\)}]\begingroup Thermal Transfer Number\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(d\)@[{\(d\)}]\begingroup Diameter, $\mathrm{m}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(W\)@[{\(W\)}]\begingroup Molecular Weight, $\mathrm{kg/mol}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(S\)@[{\(S\)}]\begingroup Supersaturation\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(N_{s}\)@[{\(N_{s}\)}]\begingroup Nucleation Site Density, $\mathrm{1/m^{2}}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(A\)@[{\(A\)}]\begingroup Surface Area, $\mathrm{m^{2}}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(N(r)\)@[{\(N(r)\)}]\begingroup Droplet Size Distribution, $\mathrm{1/m^{3}}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(K\)@[{\(K\)}]\begingroup Squared Droplet Growth Rate, $\mathrm{m^{2}/s}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(V\)@[{\(V\)}]\begingroup Volume, $\mathrm{m^{3}}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(Q_{d}\)@[{\(Q_{d}\)}]\begingroup Droplet Heat Transfer, $\mathrm{W}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(f\)@[{\(f\)}]\begingroup Nucleation Frequency, $\mathrm{1/s}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(N_{A}\)@[{\(N_{A}\)}]\begingroup Avogadro Constant, $\mathrm{1/mol}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(q\)@[{\(q\)}]\begingroup Wall Heat Flux, $\mathrm{W/m^{2}}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(S_{d}\)@[{\(S_{d}\)}]\begingroup Droplet Growth Source Term, $\mathrm{kg/m^{3}s}$\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{L\(q_{c}\)@[{\(q_{c}\)}]\begingroup Non-Isothermal Correction Factor\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{O\(\mathrm{Kn}\)@[{\(\mathrm{Kn}\)}]\begingroup Knudsen Number\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{O\(\mathrm{Re}\)@[{\(\mathrm{Re}\)}]\begingroup Reynolds Number\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{O\(\mathrm{Nu}\)@[{\(\mathrm{Nu}\)}]\begingroup Nusselt Number\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{O\(\mathrm{Sc}\)@[{\(\mathrm{Sc}\)}]\begingroup Schmidt Number\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{O\(\mathrm{Sh}\)@[{\(\mathrm{Sh}\)}]\begingroup Sherwood Number\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{O\(\mathrm{Pr}\)@[{\(\mathrm{Pr}\)}]\begingroup Prandtl Number\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{N\(int\)@[{\(int\)}]\begingroup Interface\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{N\(w\)@[{\(w\)}]\begingroup Water\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{N\(l\)@[{\(l\)}]\begingroup Liquid Phase\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{N\(g\)@[{\(g\)}]\begingroup Gas Phase\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{N\(v\)@[{\(v\)}]\begingroup Vapor\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{N\(d\)@[{\(d\)}]\begingroup Droplet\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{N\(0\)@[{\(0\)}]\begingroup Initial\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{N\(s\)@[{\(s\)}]\begingroup Surface\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{N\(het\)@[{\(het\)}]\begingroup Heterogeneous\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{N\(*\)@[{\(*\)}]\begingroup Critical\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{N\('\)@[{\('\)}]\begingroup Saturation Conditions\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{N\(\infty\)@[{\(\infty\)}]\begingroup Free Stream Conditions\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{N\(conv\)@[{\(conv\)}]\begingroup Convection\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{N\(ij\)@[{\(ij\)}]\begingroup Tensor Notation\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{N\(cond\)@[{\(cond\)}]\begingroup Conduction\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{N\(const\)@[{\(const\)}]\begingroup Constriction\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{N\(cap\)@[{\(cap\)}]\begingroup Capillarity\nomeqref {0.0}|nompageref}{VII}
+\nomenclatureentry{N\(\infty\)@[{\(\infty\)}]\begingroup Free Stream Conditions\nomeqref {0.0}|nompageref}{VII}

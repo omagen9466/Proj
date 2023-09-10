@@ -1,0 +1,29 @@
+\babel@toc {english}{}\relax 
+\contentsline {figure}{\numberline {1}{\ignorespaces $p-\rho $ diagram of an isothermally compressed water vapor for two different temperatures. Metastable extensions are conceptually demonstrated as the vapor enters the dome \cite {doi:10.1021/ie4033999}.\relax }}{4}{figure.caption.4}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Gibbs free-energy as a function of the radius for different supersaturation levels. Vertical lines depict the critical droplet radius for each supersaturation level respectively.\relax }}{5}{figure.caption.5}%
+\contentsline {figure}{\numberline {3}{\ignorespaces 1D Droplet concept in radial coordinates\relax }}{8}{figure.caption.6}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Schematic of non-equilibrium expansion within a turbine. Presented by Traupel \cite {traupel1977thermal}.\relax }}{11}{figure.caption.7}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Schematic of a condenser. Presented by Massoud \cite {massoud2005engineering}.\relax }}{15}{figure.caption.10}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Schematic of dropwise condensation (left) and film condensation (right). Presented by Massoud \cite {massoud2005engineering}.\relax }}{15}{figure.caption.11}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Schematic of thermal resistances for droplet growth. Presented by Khandekar \cite {khandekar2020drop}.\relax }}{18}{figure.caption.12}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Supersaturation value needed for droplet growth at $T=350 \mathrm {K}$ and $p=25\: \mathrm {kPa}$\relax }}{28}{figure.caption.13}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Cylinder mesh \relax }}{32}{figure.caption.14}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Flat plate mesh \relax }}{34}{figure.caption.17}%
+\contentsline {figure}{\numberline {11}{\ignorespaces $d^{2}$ droplet temperature time progression for two gas-liquid temperature differences.\relax }}{39}{figure.caption.20}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Droplet squared radius time progression enlarged initial transient state.\relax }}{40}{figure.caption.21}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Droplet squared radius time progression for two gas/vapor-liquid temperature differences.\relax }}{41}{figure.caption.22}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Droplet squared radius time derivative, $K$, time progression for two gas/vapor-liquid temperature differences.\relax }}{42}{figure.caption.23}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Dropwise condensation of a single droplet for different contact angles\relax }}{43}{figure.caption.24}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Dropwise condensation of a single droplet for different accommodation factors\relax }}{44}{figure.caption.25}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Dropwise condensation compared with the Knudsen model for two different temperature differences\relax }}{45}{figure.caption.26}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Droplet growth rate for different wall temperatures\relax }}{46}{figure.caption.27}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Supersaturation level in reference to the maximal value at $U=50$ $\mathrm {m/s}$\relax }}{47}{figure.caption.28}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Acquired pressure values along the cylinder wall cells for $U=50$ $\mathrm {m/s}$ case.\relax }}{48}{figure.caption.29}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Nucleation rate in reference to the maximal value at $U=50\: \mathrm {m/s}$\relax }}{49}{figure.caption.30}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Droplet number per unit volume of vapor\relax }}{50}{figure.caption.31}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Droplet radius progression with time. Comparison between RK45 solution and OpenFOAM simulations for two cell refinements.\relax }}{51}{figure.caption.32}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Droplet growth rate progression with time. Comparison between RK45 solution and OpenFOAM simulations for two cell refinements.\relax }}{52}{figure.caption.33}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Wall heat flux values for increasing saturation-wall temperature differences at a constant vapor temperature of $T'=373\mathrm {K}$. Results are compared with the work of Liu and Cheng \cite {liu2015dropwise2}.\relax }}{53}{figure.caption.34}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Results presented by Marengo \cite {marengo2022surface} of an experimental study conducted by Parin et al. \cite {PARIN2020115718}. a) Drop size density (population model) of droplets counted vs. the radius of the droplets observed. b) and c) are images acquired from the high-speed camera used in the experiment for the counting.\relax }}{60}{figure.caption.35}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Droplet growth rate contour for different inlet velocity conditions\relax }}{iii}{figure.caption.38}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Time progression of the mass fraction, $\alpha $, in the flat plate case. Saturation Temperature is $T'=303\mathrm {K}$ and first height is $20\mathrm {mm}$.\relax }}{iv}{figure.caption.39}%
